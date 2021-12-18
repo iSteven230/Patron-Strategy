@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\PatronStrategy\bin\Debug\netcoreapp3.1\PatronStrategy.exe
+C:\Users\usuario\source\repos\PatronStrategy\bin\Debug\netcoreapp3.1\PatronStrategy.deps.json
+C:\Users\usuario\source\repos\PatronStrategy\bin\Debug\netcoreapp3.1\PatronStrategy.runtimeconfig.json
+C:\Users\usuario\source\repos\PatronStrategy\bin\Debug\netcoreapp3.1\PatronStrategy.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\PatronStrategy\bin\Debug\netcoreapp3.1\PatronStrategy.dll
+C:\Users\usuario\source\repos\PatronStrategy\bin\Debug\netcoreapp3.1\PatronStrategy.pdb
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.AssemblyInfo.cs
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.dll
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.pdb
+C:\Users\usuario\source\repos\PatronStrategy\obj\Debug\netcoreapp3.1\PatronStrategy.genruntimeconfig.cache
