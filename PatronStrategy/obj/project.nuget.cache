@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWlKbmaZrSMA3LLuM12eDWV8xl9OhjC17cCQq5Bg6idpjtDfAsPgFUUAdJOUs+aXNSlmPT9WhqJvbtTSQ9jrpA==",
+  "dgSpecHash": "2npt38Sdg6Tix27QLl7BG9ZuuduvdZHn1CkKhsQEhHGgVvNEqHiJwhZ4VZiE6+4zB5E7XsYWqDgF8A7zEfPTyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\PatronStrategy\\PatronStrategy.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,49 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="PatronStrategy.Cdiv" BaseTypeListCollapsed="true">
-    <Position X="6.5" Y="2.25" Width="1.5" />
+  <Class Name="Strategy.ConduccionDeportiva" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Cdiv.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAA=</HashCode>
+      <FileName>ConduccionDeportiva.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="PatronStrategy.Cmulti" BaseTypeListCollapsed="true">
-    <Position X="4.75" Y="2.25" Width="1.5" />
+  <Class Name="Strategy.ConduccionNormal" BaseTypeListCollapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Cmulti.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAA=</HashCode>
+      <FileName>ConduccionNormal.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="PatronStrategy.Cresta" BaseTypeListCollapsed="true">
-    <Position X="3" Y="2.25" Width="1.5" />
+  <Class Name="Strategy.Contexto">
+    <Position X="9.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Cresta.cs</FileName>
+      <HashCode>AAAAAAAAAABQAAAAQCAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Contexto.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
   </Class>
-  <Class Name="PatronStrategy.Csuma" BaseTypeListCollapsed="true">
-    <Position X="1.25" Y="2.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>Csuma.cs</FileName>
-    </TypeIdentifier>
-    <Lollipop Position="0.2" />
-  </Class>
-  <Class Name="PatronStrategy.Program">
-    <Position X="3.75" Y="0.75" Width="1.5" />
+  <Class Name="Strategy.Program">
+    <Position X="2" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="PatronStrategy.IOperacion">
-    <Position X="6.25" Y="0.75" Width="1.5" />
+  <Class Name="Strategy.Vehiculo">
+    <Position X="6.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
-      <FileName>IOperacion.cs</FileName>
+      <HashCode>AAAABAAAAAAEAAAAAAAABAAAAAAAAAQAQAAAAAAAAAA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Strategy.ITipoConduccion">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAA=</HashCode>
+      <FileName>ITipoConduccion.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Segoe UI" Size="9" />
